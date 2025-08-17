@@ -33,8 +33,6 @@
 
 ---
 
----
-
 ## 🛠️ Lenguajes y Tecnologías Principales
 
 ### 🔙 Backend
