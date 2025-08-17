@@ -29,7 +29,7 @@
 ---
 
 ## 📊 Mis estadísticas en GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fleon02&layout=compact&theme=radical)
 
 ---
 
